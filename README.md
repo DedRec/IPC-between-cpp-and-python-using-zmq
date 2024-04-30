@@ -12,6 +12,8 @@
 
 Recommended install python package with conda to avoid conflicts
 
+Recommended install Miniconda as it takes less memory https://docs.anaconda.com/free/miniconda/
+
 Install conda from https://www.anaconda.com/download/success
 
 ```bash
