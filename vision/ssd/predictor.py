@@ -37,7 +37,7 @@ class Predictor:
                 self.timer.start()
                 scores, boxes = self.net.forward(images)
                 end = self.timer.end()
-                print("Inference time: ", self.timer.end())
+                print("Inference time: ", end)
                 print("FPS: ", 1/end)
         boxes = boxes[0]
         scores = scores[0]
