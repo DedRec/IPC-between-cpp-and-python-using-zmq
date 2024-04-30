@@ -17,6 +17,9 @@ Install conda from https://www.anaconda.com/download/success
 ```bash
 conda create -c pytorch -c conda-forge -n ultralight 'pytorch=1.6' torchvision torchaudio cudatoolkit opencv pyzmq zeromq python=3.6.9
 ```
+
+These packages above take 1.35 GB storage
+
 ### Cpp
 - opencv with cuda or without
 - zmq (zmq.h)
