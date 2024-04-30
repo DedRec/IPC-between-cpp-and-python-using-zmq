@@ -8,5 +8,9 @@
 - zeromq
 - cuda 10.2
 - cudnn 7.0 or higher
+
 Recommended install python package with conda to avoid conflicts
-`conda create -c pytorch -c conda-forge -n ultralight 'pytorch=1.6' torchvision torchaudio cudatoolkit opencv pyzmq zeromq python=3.6.9`
+
+```bash
+conda create -c pytorch -c conda-forge -n ultralight 'pytorch=1.6' torchvision torchaudio cudatoolkit opencv pyzmq zeromq python=3.6.9
+## 
