@@ -29,7 +29,12 @@ sudo apt-get install libopencv-dev libzmq3-dev
 sudo apt-get update
 sudo apt-get install libzmq3-dev
 ```
-
+## Compile
 ```bash
 g++ -o cpp_sender_script_ubuntu cpp_sender_script_ubuntu.cpp -std=c++11 -lzmq `pkg-config --cflags --libs opencv`
+```
+
+## Run
+```bash
+./cpp_sender_script_ubuntu
 ```
