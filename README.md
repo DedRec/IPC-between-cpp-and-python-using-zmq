@@ -10,9 +10,9 @@
 - cuda 10.2
 - cudnn 7.0 or higher
 
-Recommended install python package with conda to avoid conflicts
+**Recommended install python package with conda to avoid conflicts**
 
-Recommended install Miniconda as it takes less memory https://docs.anaconda.com/free/miniconda/
+**Recommended install Miniconda as it takes less memory** https://docs.anaconda.com/free/miniconda/
 
 or Install Anaconda from https://www.anaconda.com/download/success
 
