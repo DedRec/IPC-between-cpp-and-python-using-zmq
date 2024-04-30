@@ -14,7 +14,7 @@ Recommended install python package with conda to avoid conflicts
 
 Recommended install Miniconda as it takes less memory https://docs.anaconda.com/free/miniconda/
 
-Install conda from https://www.anaconda.com/download/success
+or Install Anaconda from https://www.anaconda.com/download/success
 
 ```bash
 conda create -c pytorch -c conda-forge -n ultralight 'pytorch=1.6' torchvision torchaudio cudatoolkit opencv pyzmq zeromq python=3.6.9
