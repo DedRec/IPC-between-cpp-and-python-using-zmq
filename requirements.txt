@@ -2,6 +2,6 @@ numpy
 olefile
 Pillow
 pyzmq
-torch==1.6.0
+torch==1.6.0+cu102
 torchaudio==0.6.0a0+f17ae39
-torchvision==0.7.0
+torchvision==0.7.0+cu102
