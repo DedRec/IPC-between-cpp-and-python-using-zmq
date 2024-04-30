@@ -11,7 +11,8 @@
 - cudnn 7.0 or higher
 
 Recommended install python package with conda to avoid conflicts
-install conda from https://www.anaconda.com/download/success
+
+Install conda from https://www.anaconda.com/download/success
 
 ```bash
 conda create -c pytorch -c conda-forge -n ultralight 'pytorch=1.6' torchvision torchaudio cudatoolkit opencv pyzmq zeromq python=3.6.9
