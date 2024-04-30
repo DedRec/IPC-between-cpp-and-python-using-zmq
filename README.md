@@ -18,3 +18,14 @@ conda create -c pytorch -c conda-forge -n ultralight 'pytorch=1.6' torchvision t
 ### Cpp
 - opencv with cuda or without
 - zmq (zmq.h)
+
+#### install with opencv
+```bash
+sudo apt-get update
+sudo apt-get install libopencv-dev libzmq3-dev
+```
+#### without opencv
+```bash
+sudo apt-get update
+sudo apt-get install libzmq3-dev
+```
