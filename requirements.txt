@@ -1,0 +1,7 @@
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1626681920064/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow @ file:///tmp/build/80754af9/pillow_1625649052827/work
+pyzmq @ file:///home/conda/feedstock_root/build_artifacts/pyzmq_1631793305981/work
+torch==1.6.0
+torchaudio==0.6.0a0+f17ae39
+torchvision==0.7.0
